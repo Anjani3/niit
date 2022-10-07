@@ -1,0 +1,15 @@
+/home/dell/Desktop/CSB/ShowCase/bin/Debug/net6.0/ShowCase
+/home/dell/Desktop/CSB/ShowCase/bin/Debug/net6.0/ShowCase.deps.json
+/home/dell/Desktop/CSB/ShowCase/bin/Debug/net6.0/ShowCase.runtimeconfig.json
+/home/dell/Desktop/CSB/ShowCase/bin/Debug/net6.0/ShowCase.dll
+/home/dell/Desktop/CSB/ShowCase/bin/Debug/net6.0/ShowCase.pdb
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.csproj.AssemblyReference.cache
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.AssemblyInfoInputs.cache
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.AssemblyInfo.cs
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.csproj.CoreCompileInputs.cache
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.dll
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/refint/ShowCase.dll
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.pdb
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ShowCase.genruntimeconfig.cache
+/home/dell/Desktop/CSB/ShowCase/obj/Debug/net6.0/ref/ShowCase.dll

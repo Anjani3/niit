@@ -1,0 +1,14 @@
+using System;
+
+namespace demolib
+{
+    class demo
+    {
+        public int a = 12;
+        private int b =13;
+        protected int c =14;
+        internal int d = 15;
+        protected internal int e= 23;
+        private protected int f =34;
+    }
+}
